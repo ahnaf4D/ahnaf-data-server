@@ -2,7 +2,7 @@
   {
     "recipe_id": 1,
     "recipe_name": "Spaghetti Carbonara",
-    "recipe_image": "https://ahnaf4d.github.io/fake-api-server/img-for-data/spaghetti.jpg",
+    "recipe_image": "https://i.ibb.co/cg9b5MG/spaghetti.jpg",
     "short_description": "Classic Italian pasta dish with creamy sauce.",
     "ingredients": [
       "200g spaghetti",
@@ -18,7 +18,7 @@
   {
     "recipe_id": 2,
     "recipe_name": "Chicken Stir-Fry",
-    "recipe_image": "https://ahnaf4d.github.io/fake-api-server/img-for-data/chicken-stir-fry.jpg",
+    "recipe_image": "https://i.ibb.co/8By0JN1/chicken-stir-fry.jpg",
     "short_description": "Quick and flavorful Asian-inspired dish.",
     "ingredients": [
       "500g chicken breast",
@@ -34,7 +34,7 @@
   {
     "recipe_id": 3,
     "recipe_name": "Vegetable Lasagna",
-    "recipe_image": "https://ahnaf4d.github.io/fake-api-server/img-for-data/lasagana.jpg",
+    "recipe_image": "https://i.ibb.co/wCXf48p/lasagana.jpg",
     "short_description": "Layered pasta dish with assorted vegetables and cheese.",
     "ingredients": [
       "250g lasagna noodles",
@@ -49,7 +49,7 @@
   {
     "recipe_id": 4,
     "recipe_name": "Grilled Salmon",
-    "recipe_image": "https://ahnaf4d.github.io/fake-api-server/img-for-data/grilled-salmon.jpg",
+    "recipe_image": "https://i.ibb.co/DRtLXXn/grilled-salmon.jpg",
     "short_description": "Healthy and delicious grilled salmon fillets.",
     "ingredients": [
       "4 salmon fillets",
@@ -65,7 +65,7 @@
   {
     "recipe_id": 5,
     "recipe_name": "Mushroom Risotto",
-    "recipe_image": "https://ahnaf4d.github.io/fake-api-server/img-for-data/mushrom.jpg",
+    "recipe_image": "https://i.ibb.co/fnNYDy6/mushrom.jpg",
     "short_description": "Creamy Italian rice dish with mushrooms and Parmesan.",
     "ingredients": [
       "300g Arborio rice",
@@ -81,7 +81,7 @@
   {
     "recipe_id": 6,
     "recipe_name": "Caprese Salad",
-    "recipe_image": "https://ahnaf4d.github.io/fake-api-server/img-for-data/salad.jpg",
+    "recipe_image": "https://i.ibb.co/zXdwH0V/salad.jpg",
     "short_description": "Simple and refreshing salad with tomatoes, mozzarella, and basil.",
     "ingredients": [
       "3 large tomatoes",
