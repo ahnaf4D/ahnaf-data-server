@@ -1,1 +1,1 @@
-## Get Recipe Data : https://ahnaf4d.github.io/ahnaf-data-server/recipes.json
+## Data For Implement in Simple Frontend Project
