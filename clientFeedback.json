@@ -1,0 +1,26 @@
+[
+  {
+    "client_image": "https://randomuser.me/api/portraits/women/57.jpg",
+    "client_name": "Sarah Johnson",
+    "client_feedback": "I had amazing stays at their properties. Highly recommended for anyone looking for a memorable experience!",
+    "client_occupation": "Travel Blogger"
+  },
+  {
+    "client_image": "https://randomuser.me/api/portraits/men/67.jpg",
+    "client_name": "Michael Rodriguez",
+    "client_feedback": "Their hospitality is truly fantastic! Every detail is taken care of, making every stay enjoyable and relaxing.",
+    "client_occupation": "Hotel Owner"
+  },
+  {
+    "client_image": "https://randomuser.me/api/portraits/women/61.jpg",
+    "client_name": "Emily Chen",
+    "client_feedback": "Top-notch service every time I've stayed. Their attention to detail and guest satisfaction is exceptional.",
+    "client_occupation": "Airbnb Host"
+  },
+  {
+    "client_image": "https://randomuser.me/api/portraits/men/57.jpg",
+    "client_name": "John Smith",
+    "client_feedback": "Incredible experiences await you at their properties. From amenities to ambiance, they exceed expectations!",
+    "client_occupation": "Real Estate Investor"
+  }
+]
