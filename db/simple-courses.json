@@ -1,0 +1,115 @@
+[
+    {
+      "thumbnail": "https://placehold.co/400x250.png",
+      "name": "Introduction to Programming",
+      "price": 39.99,
+      "id": 1,
+      "level": "Beginner",
+      "description": "Learn the fundamental concepts of programming, including variables, data types, control flow, and functions."
+    },
+    {
+      "thumbnail": "https://placehold.co/400x250.png",
+      "name": "Python for Beginners",
+      "price": 49.99,
+      "id": 2,
+      "level": "Beginner",
+      "description": "Get started with Python, a popular and versatile programming language. Learn syntax, data structures, and how to write basic programs."
+    },
+    {
+      "thumbnail": "https://placehold.co/400x250.png",
+      "name": "Java Programming Fundamentals",
+      "price": 59.99,
+      "id": 3,
+      "level": "Beginner",
+      "description": "Explore the fundamentals of Java programming, including object-oriented programming concepts like classes, objects, and inheritance."
+    },
+    {
+      "thumbnail": "https://placehold.co/400x250.png",
+      "name": "JavaScript for Web Development",
+      "price": 29.99,
+      "id": 4,
+      "level": "Intermediate",
+      "description": "Learn JavaScript, the essential language for adding interactivity to web pages. Build dynamic and engaging web experiences."
+    },
+    {
+      "thumbnail": "https://placehold.co/400x250.png",
+      "name": "C++ Programming for Games",
+      "price": 69.99,
+      "id": 5,
+      "level": "Intermediate",
+      "description": "Delve into C++, a powerful language for game development. Learn memory management, object-oriented programming, and graphics concepts."
+    },
+    {
+      "thumbnail": "https://placehold.co/400x250.png",
+      "name": "Data Structures and Algorithms",
+      "price": 44.99,
+      "id": 6,
+      "level": "Intermediate",
+      "description": "Master fundamental data structures (arrays, linked lists, trees) and algorithms (sorting, searching) used in many programming applications."
+    },
+    {
+      "thumbnail": "https://placehold.co/400x250.png",
+      "name": "Web Development with HTML, CSS, and JavaScript",
+      "price": 79.99,
+      "id": 7,
+      "level": "Beginner",
+      "description": "Learn the foundational web development technologies: HTML for structure, CSS for styling, and JavaScript for interactivity."
+    },
+    {
+      "thumbnail": "https://placehold.co/400x250.png",
+      "name": "Machine Learning with Python",
+      "price": 89.99,
+      "id": 8,
+      "level": "Advanced",
+      "description": "Explore the exciting field of machine learning using Python. Learn about algorithms, data preparation, and model building."
+    },
+    {
+      "thumbnail": "https://placehold.co/400x250.png",
+      "name": "Ethical Hacking and Penetration Testing",
+      "price": 99.99,
+      "id": 9,
+      "level": "Advanced",
+      "description": "Learn ethical hacking techniques to identify and exploit vulnerabilities in computer systems, helping to improve system security."
+    },
+    {
+      "thumbnail": "https://placehold.co/400x250.png",
+      "name": "Git for Version Control",
+      "price": 19.99,
+      "id": 10,
+      "level": "Beginner",
+      "description": "Master Git, a version control system for tracking changes in code. Learn to collaborate effectively with other programmers."
+    },
+    {
+      "thumbnail": "https://placehold.co/400x250.png",
+      "name": "Responsive Web Design with Bootstrap",
+      "price": 24.99,
+      "id": 11,
+      "level": "Intermediate",
+      "description": "Learn Bootstrap, a popular framework for creating responsive websites that adapt to different screen sizes."
+    },
+    {
+      "thumbnail": "https://placehold.co/400x250.png",
+      "name": "Creative Writing Fundamentals",
+      "price": 34.99,
+      "id": 13,
+      "level": "Beginner",
+      "description": "Explore the art of creative writing. Learn techniques for developing plot, character, and voice, and bring your stories to life."
+    },
+    {
+      "thumbnail": "https://placehold.co/400x250.png",
+      "name": "The Science of Photography",
+      "price": 29.99,
+      "id": 14,
+      "level": "Beginner",
+      "description": "Learn the fundamentals of photography, including exposure, composition, and lighting. Capture stunning images and improve your photography skills."
+    },
+    {
+      "thumbnail": "https://placehold.co/400x250.png",
+      "name": "Music Production for Beginners",
+      "price": 49.99,
+      "id": 15,
+      "level": "Beginner",
+      "description": "Get started with music production using a digital audio workstation (DAW). Learn about recording, editing, and mixing to create your own music."
+    }
+  ]
+  
