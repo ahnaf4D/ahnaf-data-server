@@ -22,6 +22,7 @@ Welcome to the Public Data for Frontend Projects repository! This repository aim
 16. **[To-Do's](https://raw.githubusercontent.com/ahnaf4D/public-data-for-frontend-projects/main/db/todos.json):** To-do list items.
 17. **[Users](https://raw.githubusercontent.com/ahnaf4D/public-data-for-frontend-projects/main/db/users.json):** Information about users.
 18. **[Users 2](https://raw.githubusercontent.com/ahnaf4D/public-data-for-frontend-projects/main/db/users2.json):** Additional user data.
+19. **[Simple Course Data](https://raw.githubusercontent.com/ahnaf4D/public-data-for-frontend-projects/main/db/simple-courses.json):** Additional simple course data.
 
 Feel free to explore and utilize these datasets in your frontend projects!
 
